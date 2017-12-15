@@ -1,20 +1,20 @@
 
 public class Exercise1 {
 
-	public static void main(String[] args) {
-
-		// TODO Auto-generated method stub
-
-		Exercise1 ex = new Exercise1();
-
-		ex.ex1(); // method example
-		ex.ex2();
-		ex.ex3();
-		System.out.println(ex.ex4(2, 3, false)); // refers to A + B in ex4 and uses the numbers entered as value
-		ex.printHello(ex.ex0()); // draws string value eg, "Hello World"
-		ex.itteration();
-
-	}
+//	public static void main(String[] args) {
+//
+//		// TODO Auto-generated method stub
+//
+//		Exercise1 ex = new Exercise1();
+//
+//		ex.ex1(); // method example
+//		ex.ex2();
+//		ex.ex3();
+//		System.out.println(ex.ex4(2, 3, false)); // refers to A + B in ex4 and uses the numbers entered as value
+//		ex.printHello(ex.ex0()); // draws string value eg, "Hello World"
+//		ex.itteration();
+//
+//	}
 
 	private void itteration() {
 
